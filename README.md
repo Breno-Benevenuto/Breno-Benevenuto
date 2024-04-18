@@ -1,16 +1,20 @@
-### Hi there 👋
+# Introduction
 
-<!--
-**Breno-Benevenuto/Breno-Benevenuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm [Your Name].
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a backend developer with 3 years of experience specializing in Java and C# with .NET.
+
+## Skills
+
+- **Programming Languages:** Python, JavaScript, Java
+- **Backend Technologies:** Flask, Django, Node.js
+- **Databases:** MySQL, MongoDB
+- **Other Tools:** Git, Docker, AWS
+
+## Contact
+
+- **![image]({[BadgeURLHere](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)}):** youremail@example.com
+- **LinkedIn:** [Your Profile](link_to_your_linkedin_profile)
+- **GitHub:** [Your Profile](link_to_your_github_profile)
