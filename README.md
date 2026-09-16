@@ -10,17 +10,22 @@ I'm passionate about software engineering beyond just writing code — understan
 
 I enjoy learning by building, studying new technologies, and documenting what I learn along the way.
 
-### Currently focused on
+### Currently focused
 
-* Java & Spring Boot
-* AWS & Cloud
-* Distributed Systems
-* Microservices
-* Software Architecture
-* Clean Code & Design Patterns
-* Performance & Concurrency
-* Developer Experience
+- Java & Spring Boot
+- AWS & Cloud
+- Distributed Systems
+- Microservices
+- Software Architecture
+- Clean Code & Design Patterns
+- Performance & Concurrency
+- Developer Experience
 
 ### Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/breno-de-jesus-benevenuto/) · [Dev.to](https://dev.to/b3o_b8o)
+<a href="https://www.linkedin.com/in/breno-de-jesus-benevenuto/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://dev.to/b3o_b8o">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
